@@ -1,2 +1,2 @@
 print("Hello world")
-print('I have issue in code'
+print('I have no issue in code')

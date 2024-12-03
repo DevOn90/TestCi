@@ -1,10 +1,8 @@
 
-def Deduct(a,b):
-    return a - b
+a = 10
+b = 5
 
-def Count(a,b):
-    return a + b
+def Sum(a,b) -> int:
+    return (a + b) + (a - b)
 
-print(f"The result is: {Count(2,3)}")
-print(f"The relsutl deduct is: {Deduct(10,8)}")
-print("Hello world")
+print(f"Sum is: {Sum(a,b)}")

@@ -11,6 +11,5 @@ def Count(a:int,b:int):
 def Sum() -> int:
     return Count(a,b) + Deduct(a,b)
 
-print(f"The result is: {Count(2,3)}")
 print(f"The relsutl deduct is: {Deduct(10,8)}")
 print(f"Sum is: {Sum()}")

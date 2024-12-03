@@ -8,5 +8,4 @@ def Sum(a,b) -> int:
 def Multiply(a,b) -> int:
     return a * b
 
-print(f"Sum is: {Sum(a,b)}")
-print(f"Multiple is: {Multiply(a,b)}")
+print(f"The Sum is {Sum(a,b)} & Mutliply is {Multiply(a,b)}.")

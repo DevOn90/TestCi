@@ -1,3 +1,5 @@
 some text
 
 # New Feature = 1
+
+new line added
